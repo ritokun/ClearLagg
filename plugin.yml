@@ -2,7 +2,7 @@ name: ClearLagg
 main: ClearLagg\Loader
 version: 1.1.0
 api:
-- 3.0.0-ALPHA9
+- 3.0.0-ALPHA11
 author: LegendOfMCPE
 website: https://github.com/LegendOfMCPE/ClearLagg
 description: "Port of Bukkit ClearLagg for PocketMine Servers"
